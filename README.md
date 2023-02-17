@@ -16,7 +16,7 @@
 - The analysis revealed 
 
 ## How to Run
-- To run this project, you can open the Data_Project.ipynb file in Jupyter Notebook or Jupyter Lab, and run the code cells in order. You will need to have the dependencies listed above installed.
+- To run this project, you can open the Golf_Stats_Project.ipynb file in Jupyter Notebook or Jupyter Lab, and run the code cells in order. You will need to have the dependencies listed above installed.
 
 ## Conclusion
 - This project demonstrates how data science techniques can be used to analyze the relationship between golf statistics and metrics. Using the matrix at the end can draw conclusions around the data. Among the highest correlation of data presented is that ball speed and driving distance are correlated as well as points and wins. Most of the other statistics have a fairly low correlation coefficient meaning that there may not be a single statistic that can produce success on the course, rather you must be a complete player to generate results.
